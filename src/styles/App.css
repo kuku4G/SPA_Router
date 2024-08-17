@@ -20,11 +20,10 @@ main {
 }
 
 aside {
-  min-width: 240px;
+  min-width: 180px;
 }
 
 section.page {
-  background-color: #efcaca;
   flex-grow: 1;
 }
 
