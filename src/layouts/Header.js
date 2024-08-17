@@ -13,6 +13,7 @@ const Header = () => {
 				<Route path='/products' element={<img src={header2} alt='city' />} />
 				<Route path='/contact' element={<img src={header3} alt='city' />} />
 				<Route path='/admin' element={<img src={header1} alt='city' />} />
+				<Route path='/login' element={<img src={header2} alt='city' />} />
 			</Routes>
 		</div>
 	);

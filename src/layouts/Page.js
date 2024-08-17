@@ -9,11 +9,11 @@ import ErrorPage from '../pages/ErrorPage';
 const Page = () => {
 	return (
 		<Routes>
-			<Route path='/' element={<HomePage/>} />
-			<Route path='/products' element={<ProductsPage/>} />
-			<Route path='/contact' element={<ContactPage/>} />
-			<Route path='/admin' element={<AdminPage/>} />
-			<Route path='*' element={<ErrorPage/>} />
+			<Route path='/' element={<HomePage />} />
+			<Route path='/products' element={<ProductsPage />} />
+			<Route path='/contact' element={<ContactPage />} />
+			<Route path='/admin' element={<AdminPage />} />
+			<Route path='*' element={<ErrorPage />} />
 		</Routes>
 	);
 };
