@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/SPA_Router/static/css/main.6118f3c2.css",
-    "main.js": "/SPA_Router/static/js/main.c8d94a03.js",
+    "main.js": "/SPA_Router/static/js/main.bfca459b.js",
     "static/media/header1.jpg": "/SPA_Router/static/media/header1.e210d6237c4df53a92ae.jpg",
     "static/media/header3.jpg": "/SPA_Router/static/media/header3.1b8172a4f8d865e14fe5.jpg",
     "static/media/header2.jpg": "/SPA_Router/static/media/header2.26d6661b147a114ff1c9.jpg",
     "index.html": "/SPA_Router/index.html",
     "main.6118f3c2.css.map": "/SPA_Router/static/css/main.6118f3c2.css.map",
-    "main.c8d94a03.js.map": "/SPA_Router/static/js/main.c8d94a03.js.map"
+    "main.bfca459b.js.map": "/SPA_Router/static/js/main.bfca459b.js.map"
   },
   "entrypoints": [
     "static/css/main.6118f3c2.css",
-    "static/js/main.c8d94a03.js"
+    "static/js/main.bfca459b.js"
   ]
 }
